@@ -1,0 +1,4 @@
+cookbook
+========
+
+Puppet Cookbook Testing
